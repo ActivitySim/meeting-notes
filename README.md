@@ -1,11 +1,12 @@
 # ActivitySim Meeting Notes
 
 This repository is where the ActivitySim consortium meeting notes and agendas are available, 
-starting from July 2025.  Historical meeting notes prior to this time are available on the 
+starting from July 2025.  Notes for each meeting are stored in an [issue](https://github.com/ActivitySim/meeting-notes/issues).
+Historical meeting notes prior to this time are available on the 
 [wiki](https://github.com/ActivitySim/activitysim/wiki/Meeting-Notes). 
 
 
-# Consortium Staff
+## Consortium Staff
 
 For reference, key members of the team are listed here, along with their GitHub handles.
 
