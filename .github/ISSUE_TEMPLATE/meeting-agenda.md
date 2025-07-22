@@ -21,7 +21,6 @@ _Use this section to outline the topics that will be discussed during the meetin
 _Tag team members and other invitees you wish to include in this meeting._
 
 - @team-as-group
-- @team-member, ...
 - @other-invitees
 
 ---
