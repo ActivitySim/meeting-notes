@@ -55,7 +55,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 - Mark Moran [mmoran3](https://github.com/mmoran3)
 - Feng Xie [fxie-mwcog](https://github.com/fxie-mwcog)
 - Ray Ngo [ray-ngo](https://github.com/ray-ngo)
-- Glenn Lang'
+- Glenn Lang
 - Dusan Vuksan
 
 #### [Puget Sound Regional Council (PSRC)](https://www.psrc.org/)
@@ -106,6 +106,8 @@ For reference, key members of the team are listed here, along with their GitHub 
 
 - Rebekah Straub [rls-odot](https://github.com/rls-odot)
 - Zhuojun Jiang
+
+#### Main Roads Western Australia (Past Consortium Member)
 
 # Technical Staff
 
