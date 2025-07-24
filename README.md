@@ -96,7 +96,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 
 - Amarin Siripanich [asiripanich](https://github.com/asiripanich)
 - Paris Brunton
-- Kate Johns
+- Kate Johns [K-Johns](https://github.com/K-Johns)
 
 #### Oregon DOT (Past Consortium Member)
 
