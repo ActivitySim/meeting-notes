@@ -95,7 +95,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 #### [Victoria Department of Transport and Planning (Melbourne)](https://www.vic.gov.au/department-transport-and-planning)
 
 - Amarin Siripanich [asiripanich](https://github.com/asiripanich)
-- Paris Brunton
+- Paris Brunton [ParisBrunton](https://github.com/ParisBrunton)
 - Kate Johns [K-Johns](https://github.com/K-Johns)
 
 #### Oregon DOT (Past Consortium Member)
