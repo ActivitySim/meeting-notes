@@ -83,7 +83,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 - Bo Wen [bwentl](https://github.com/bwentl)
 - Ilan Elgar
 - Reid Keller
-- Sumit Bindra
+- Sumit Bindra [sumitbindra](https://github.com/sumitbindra)
 - Mohamed Kamel
 
 #### [Transport for New South Wales (TfNSW)](https://www.transport.nsw.gov.au)
