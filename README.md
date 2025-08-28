@@ -88,7 +88,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 
 #### [Transport for New South Wales (TfNSW)](https://www.transport.nsw.gov.au)
 
-- Amir Samimi
+- Amir Samimi [amsamimi](https://github.com/amsamimi)
 - Bill Chen
 - Shaun Tabone
 
