@@ -25,14 +25,8 @@ For reference, key members of the team are listed here, along with their GitHub 
 - Dahai Han [dahai01](https://github.com/dahai01)
 - Sabiheh Faghih [Sabiheh](https://github.com/Sabiheh)
 
-#### [Colorado DOT](https://www.ctps.org)
-
-- Erik Sabina
-- Scott Ramming
-
 #### [Maricopa Association of Governments (MAG)](https://azmag.gov/)
 
-- Vladimir Livshits
 - Haidong Zhu
 - John Murray
 - Hao Pang
