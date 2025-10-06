@@ -83,12 +83,12 @@ For reference, key members of the team are listed here, along with their GitHub 
 #### [Transport for New South Wales (TfNSW)](https://www.transport.nsw.gov.au)
 
 - Amir Samimi [amsamimi](https://github.com/amsamimi)
+- Amarin Siripanich [asiripanich](https://github.com/asiripanich)
 - Bill Chen
 - Shaun Tabone
 
 #### [Victoria Department of Transport and Planning (Melbourne)](https://www.vic.gov.au/department-transport-and-planning)
 
-- Amarin Siripanich [asiripanich](https://github.com/asiripanich)
 - Paris Brunton [ParisBrunton](https://github.com/ParisBrunton)
 - Kate Johns [K-Johns](https://github.com/K-Johns)
 
