@@ -60,7 +60,6 @@ For reference, key members of the team are listed here, along with their GitHub 
 #### [San Diego Association of Governments (SANDAG)](https://www.sandag.org/)
 
 - Bhargava Sana [bhargavasana](https://github.com/bhargavasana)
-- Joe Flood [JoeJimFlood](https://github.com/JoeJimFlood)
 
 #### [San Francisco County Transportation Authority (SFCTA)](https://www.sfcta.org/) 
 
@@ -111,6 +110,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 - Andrew Kay [andkay](https://github.com/andkay)
 - John Gliebe [johnpgliebe](https://github.com/johnpgliebe)
 - Vivek Yadav [vivekyadav26](https://github.com/vivekyadav26)
+- Joe Flood [JoeJimFlood](https://github.com/JoeJimFlood)
 
 #### Driftless
 
