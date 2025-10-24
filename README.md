@@ -63,7 +63,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 
 #### [San Francisco County Transportation Authority (SFCTA)](https://www.sfcta.org/) 
 
-- Joe Castiglione [joecastiglione](https://github.com/joecastiglione)
+- Drew Cooper [sdrewc](https://github.com/sdrewc)
 - Chun Ho Chow [chunhochow](https://github.com/chunhochow)
 
 #### [Southeast Michigan Council of Governments (SEMCOG)](https://www.semcog.org/) 
