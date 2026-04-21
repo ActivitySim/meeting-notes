@@ -41,8 +41,7 @@ For reference, key members of the team are listed here, along with their GitHub 
 #### [Metropolitan Transportation Commission (MTC)](https://mtc.ca.gov/) 
 
 - Lisa Zorn [lmz](https://github.com/lmz)
-- Flavia Tsang [FlaviaTsang](https://github.com/FlaviaTsang)
-- Suzanne Childress [Ennazus](https://github.com/Ennazus)
+- Nicholas Fournier [nick-fournier](https://github.com/nick-fournier)
 
 #### [National Capital Region Transportation Planning Board](https://www.mwcog.org/tpb/)
 
