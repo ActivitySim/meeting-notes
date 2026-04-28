@@ -5,6 +5,7 @@ starting from July 2025.  Notes for each meeting are stored in an [issue](https:
 Historical meeting notes prior to this time are available on the 
 [wiki](https://github.com/ActivitySim/activitysim/wiki/Meeting-Notes). 
 
+**Meeting Recording** links are posted on this [google doc](https://docs.google.com/document/d/1imkAgfLUYt41rWQlzXifmg61XCt_Oe4q9is-RADS7Go/edit?tab=t.0), but these are private to ActivitySim Consortium members.
 
 ## Consortium Staff
 
